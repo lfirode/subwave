@@ -1,1 +1,5 @@
-# subwave
+# SUBWAVE
+
+Simple subspace detector
+
+
